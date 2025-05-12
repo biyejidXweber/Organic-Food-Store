@@ -2,7 +2,7 @@
 
 **Organic-Food-Store** is a beautifully crafted frontend project for an online organic grocery store called **Broccoli**. This web template promotes natural and healthy living by offering a modern UI/UX experience for customers seeking fresh organic food.
 
-![Broccoli Screenshot](./assets/screenshot.png)
+![Broccoli Screenshot](./Organicfood.png)
 
 ## 🌟 Key Features
 
