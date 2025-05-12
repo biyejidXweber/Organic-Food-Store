@@ -15,6 +15,16 @@
 - 📦 "Get a Quote" CTA button
 - 📸 High-quality banner with call-to-action (Explore Products)
 
+## 📸 Preview
+
+Here’s a quick preview of the homepage banner:
+
+**[🌐 Live Preview → Click Here](https://biyejidxweber.github.io/Organic-Food-Store/)**
+
+> **Tasty & Healthy Organic Food**  
+> 100% Genuine Products | Explore Products Button | Fresh Vegetables
+
+
 ## 🛠️ Built With
 
 - **HTML5**
